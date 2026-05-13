@@ -1,2 +1,2 @@
 print("Hello World")
-print("My coding journey starts today ")
+print("My coding journey starts today")
